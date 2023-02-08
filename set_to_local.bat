@@ -1,0 +1,2 @@
+SETX SLBSLS_LICENSE_FILE "@EXP-1678;"
+refreshenv

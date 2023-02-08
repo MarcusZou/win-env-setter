@@ -1,0 +1,2 @@
+SETX SLBSLS_LICENSE_FILE "@192.168.85.128;"
+refreshenv
